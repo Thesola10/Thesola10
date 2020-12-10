@@ -29,3 +29,5 @@ uid           [ultimate] Karim Vergnes (TheSola10) <thesola10@bobile.fr>
 _My pronouns_: `he/him` (though I don't mind `they/them`)
 
 _My editor_: `nvim`
+
+_My distros_: [Arch](https://archlinux.org) and [NixOS](https://nixos.org)
