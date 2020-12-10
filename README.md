@@ -1,24 +1,24 @@
-### About me
+## About me
 
 Always learning, coffee in hand, I'm fascinated by the _fabric_ of our modern world. I don't just want to develop applications, I am learning OS development, systems design and language design.
 
-#### Languages I use
+### Languages I use
 - C
 - Python
-- Java
+- Java (mainly Android)
 
-#### Languages I love _(still learning)_
+### Languages I love _(still learning)_
 - [Rust](https://rust-lang.org)
 - [Haskell](https://haskell.org)
 - [Elm](https://elm-lang.org)
 
 See a pattern here? Yep, I'm super interested in _functional programming_ right now!
 
-#### Languages I loathe _(but still know how to use)_
+### Languages I loathe _(but still know how to use)_
 - Javascript
 - Anything to do with .NET
 
-#### Extras
+### Extras
 _My public key fingerprint_
 ```
 pub   rsa4096 2019-01-07 [SC]
@@ -27,3 +27,5 @@ uid           [ultimate] Karim Vergnes (TheSola10) <thesola10@bobile.fr>
 ```
 
 _My pronouns_: `he/him` (though I don't mind `they/them`)
+
+_My editor_: `nvim`
