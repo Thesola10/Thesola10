@@ -24,6 +24,7 @@ _My public key fingerprint_
 pub   rsa4096 2019-01-07 [SC]
       1D0513A61AC40D8DC6D65F2C89245619BEBB95BA
 uid           [ultimate] Karim Vergnes (TheSola10) <me@thesola.io>
+uid           [ultimate] Karim Vergnes (TheSola10) <thesola10@bobile.fr>
 ```
 
 _My pronouns_: `he/him` (though I don't mind `they/them`)
