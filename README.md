@@ -32,6 +32,8 @@ _My editor_: [Neovim (`nvim`)](https://neovim.io)
 
 _My distros_: [Arch](https://archlinux.org) and [NixOS](https://nixos.org)
 
+_My profile pic_: Artwork by [まりまりも](https://pixiv.net/en/artworks/14690765), with a bit of [corruption](https://gist.github.com/Thesola10/a6318ddfd4fbab8bf766cb5bf95c3f21)
+
 > ![Stats](https://github-readme-stats.vercel.app/api?username=thesola10&show_icons=true&hide_border=true)
 >
 > ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesola10&hide_border=true)
