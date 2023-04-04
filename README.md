@@ -37,3 +37,6 @@ _My profile pic_: Artwork by [まりまりも](https://pixiv.net/en/artworks/146
 > ![Stats](https://github-readme-stats.vercel.app/api?username=thesola10&show_icons=true&hide_border=true)
 >
 > ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesola10&hide_border=true)
+
+![signed thesola10](https://raw.githubusercontent.com/Thesola10/Thesola10/signaturedark.png#gh-light-mode-only)
+![signed thesola10](https://raw.githubusercontent.com/Thesola10/Thesola10/signature.png#gh-dark-mode-only)
