@@ -26,8 +26,6 @@ pub   rsa4096 2019-01-07 [SC]
 uid           [ultimate] Karim Vergnes (TheSola10) <me@thesola.io>
 ```
 
-_My pronouns_: `he/him` (though I don't mind `they/them`)
-
 _My editor_: [Neovim (`nvim`)](https://neovim.io)
 
 _My distros_: [Arch](https://archlinux.org) and [NixOS](https://nixos.org)
