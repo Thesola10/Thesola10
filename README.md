@@ -8,7 +8,7 @@ I dabble in OSdev, language design and functional programming.
 - Python
 - Java (mainly Android)
 
-### Languages I love _(still learning)_
+### Languages I love
 - [Rust](https://rust-lang.org)
 - [Haskell](https://haskell.org)
 - [Elm](https://elm-lang.org)
