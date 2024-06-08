@@ -42,5 +42,5 @@ _My profile pic_: Artwork by [まりまりも](https://pixiv.net/en/artworks/146
 </picture>
 
 ```math
-\mmlToken{ms}[fontfamily="muahaha; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/thesola10/thesola10/blob/main/wall.png?raw=true'); background-size: cover; background-position-x: right; pointer-events: none;"]{}
+\mmlToken{ms}[fontfamily="muahaha; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/thesola10/thesola10/blob/main/wall.png?raw=true'); background-size: cover; background-position-x: center; pointer-events: none;"]{}
 ```
