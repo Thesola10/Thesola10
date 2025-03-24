@@ -1,7 +1,7 @@
 
 ## About me
 
-I dabble in OSdev, language design and functional programming.
+I do OSdev, language design and functional programming.
 
 _My editor_: [Neovim (`nvim`)](https://neovim.io)
 
