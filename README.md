@@ -9,7 +9,7 @@ The through-line in all of this? I identify a need, design an experience, and fi
 > _My languages_: [Amber](https://amber-lang.com), [Nix](https://nixos.org), [C](https://c-language.org), [Python](https://python.org), [Rust](https://rust-lang.org), [Java](https://java.com), [Haskell](https://haskell.org), [OCaML](https://ocaml.org), [Unity](https://unity.com) and many more!
 
 > [!TIP]
-> If you don't see your language in the list, don't worry! I'm quick to pick up new technologies, so we'll be up and running in no time!
+> If you don't see your language in the list, don't worry! I'm quick to pick up new technologies.
 
 > _My editor_: [Neovim (`nvim`)](https://neovim.io)
 >
