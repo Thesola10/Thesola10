@@ -1,7 +1,10 @@
 
 ## About me
+Hi, my name is Karim 👋
 
-I do OSdev, language design and functional programming.
+I do a lot of things here. My profile here is a combination of my personal interests and professional work, from **systems programming** and **language design** to **full-stack** and **DevOps**.
+
+The through-line in all of this? I identify a need, design an experience, and finally put it to code. For users, for developers, for myself. I wield systems in service of a vision -- _why not yours?_
 
 _My editor_: [Neovim (`nvim`)](https://neovim.io)
 
@@ -11,11 +14,15 @@ _My profile pic_: Artwork by [まりまりも](https://pixiv.net/en/artworks/146
 
 > [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesola10)](https://git.io/streak-stats)
 
+### Like what you see? Let's [get in touch](mailto:me@thesola.io)!
+
+<a href="https://thesola.io">
 <picture width="200px">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thesola10/Thesola10/master/signaturedark.png"/>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thesola10/Thesola10/master/signature.png"/>
       <img width="200px" src="https://raw.githubusercontent.com/Thesola10/Thesola10/master/signaturedark.png"/>
 </picture>
+</a>
 
 <!-- it's dead, jim.
 ```math
