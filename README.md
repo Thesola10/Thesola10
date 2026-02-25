@@ -9,7 +9,7 @@ _My distros_: [Silverblue](https://fedoraproject.org/atomic-desktops/silverblue)
 
 _My profile pic_: Artwork by [まりまりも](https://pixiv.net/en/artworks/14690765), with a bit of [corruption](https://gist.github.com/Thesola10/a6318ddfd4fbab8bf766cb5bf95c3f21)
 
-> ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesola10&hide_border=true) ![Stats](https://github-readme-stats.vercel.app/api?username=thesola10&show_icons=true&hide_border=true)
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesola10)](https://git.io/streak-stats)
 
 <picture width="200px">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thesola10/Thesola10/master/signaturedark.png"/>
